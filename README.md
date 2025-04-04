@@ -59,3 +59,4 @@ Para profundizar en el uso de estos y otros comandos, consulta este recurso:
 
 ¡Sigue practicando y explorando estos comandos para mejorar tu productividad en la terminal!
 
+Tarea-1 ejercitando comandos
